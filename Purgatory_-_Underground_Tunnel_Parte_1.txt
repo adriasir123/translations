@@ -1,0 +1,353 @@
+---Underground Tunnel - 1---
+
+@1
+ \f[8]You should get a move on.
+
+@1
+ \f[8]Deberías darte prisa.
+ 
+---------------
+
+@1
+ \f[8]Middle-Aged Man
+ "That's strange..."
+
+@1
+ \f[8]Middle-Aged Man
+ "Qué raro..."
+ 
+@10
+ \f[8]Enri
+ "...?"
+
+@10
+ \f[8]Enri
+ "¿...?"
+ 
+@1
+ \f[8]Middle-Aged Man
+ "The atmosphere here feels way too murky.
+  On top of that, it's quiet... too quiet."
+
+@1
+ \f[8]Middle-Aged Man
+ "El ambiente aquí se siente demasiado turbio.
+  Y como si esto fuera poco, hay silencio... mucho silencio."
+  
+@1
+ \f[8]Middle-Aged Man
+ "This isn't normal,
+  especially with the situation we're in."
+
+@1
+ \f[8]Middle-Aged Man
+ "Esto no es normal, sobre todo teniendo en cuenta la situación en la que nos encontramos."
+  
+@1
+ \f[8]Middle-Aged Man
+ "This underground passage should be packed with tons of
+  evacuees."
+  
+@1
+ \f[8]Middle-Aged Man
+ "But I don't even hear a single damned footstep..."
+ 
+@1
+ \f[8]Middle-Aged Man
+ "I don't like this, not one bit."
+ 
+@1
+ \f[8]Middle-Aged Man
+ "No me gusta esto, ni un poco." 
+ 
+@1
+ \f[8]Shifty Guy
+ "Hey, old man, am I really going to be okay out here?"
+ 
+@1
+ \f[8]Shifty Guy
+ "I'm telling you right now -- if things go south,
+  I'm taking you down with me. You got that?!"
+  
+@1
+ \f[8]Middle-Aged Man
+ "Tch. What you need to do right now is to shut your goddamned
+   trap, you little shit."
+
+@1
+ \f[8]Middle-Aged Man
+ "Sh. Lo que tienes que hacer ahora es cerrar el maldito pico, pequeño mierda."
+   
+@1
+ \f[8]Middle-Aged Man
+ "I swear to God, mouthy brats like you should have been the first
+  ones to die in calamities like this."
+  
+@1
+ \f[8]Middle-Aged Man
+ "I swear to God, mouthy brats like you should have been the first
+  ones to die in calamities like this."
+  
+@1
+ \f[8]Shifty Guy
+ "Die? Me? Hahahah!
+  Do you even hear what you're saying?!"
+  
+@1
+ \f[8]Shifty Guy
+ "Dementia hitting you hard, old man?
+  Do I need to take you to a nursing home?"
+  
+@1
+ \f[8]Middle-Aged Man
+ "Ugh, just shut it, you dumb shit!"
+
+@1
+ \f[8]Middle-Aged Man
+ "Uf, ¡cállate ya capullo!"
+ 
+@1
+ \f[8]Middle-Aged Man
+ "Hey, girl. I'm going to make sure that you--and only you--make
+  it to the Royal Capital in one piece."
+  
+@1
+ \f[8]Middle-Aged Man
+ "And you know what you can do for me once we get there?"
+ 
+@1
+ \f[8]Middle-Aged Man
+ \c[4]"You can thank me properly in bed, if you know what I mean.
+  Heh heh heh..."
+  
+@1
+ \f[8]Shifty Guy
+ "Great, now we got a disgusting old man on our hands...
+  More like HE should have been the first to die."
+  
+-------------------------------
+
+@1
+ \f[8]Is there something approaching from the other side?
+ 
+---Underground Tunnel - 2---
+
+@1
+ \f[8]If that monster swallows you whole, it's all over.
+ 
+@1
+ \f[8]You need to retreat to another location where you can fight back.
+ 
+@0
+ \f[8]-- ESCAPE FROM D-015 --
+ 
+@0
+ \f[8]-- ESCAPA DE D-015 -- 
+ 
+--------------------
+
+@1
+ \f[8]Middle-Aged Man
+ "Dammit, I knew I had a bad feeling about this place..."
+ 
+@1
+ \f[8]Shifty Guy
+ "Wh-Wh-Wh-Wh-What do we do?!
+  O-O-O-O-O-Old man, you got to do something!"
+  
+@1
+ \f[8]Middle-Aged Man
+ "Dumbass, quit making noise!"
+ 
+@1
+ \f[8]Middle-Aged Man
+ "¡Deja de hacer ruido, idiota!
+ 
+@1
+ \f[8]Middle-Aged Man
+ "Do you want those spiders to notice us?!"
+ 
+@1
+ \f[8]Middle-Aged Man
+ "Looks like we don't have a choice...
+  Our only path is going further underground."
+  
+@1
+ \f[8]Middle-Aged Man
+ "Hey, girl! Follow me!"
+ 
+@1
+ \f[8]Shifty Guy
+ "Aw, man...
+  You mean to tell me that there's no other way to get there?!"
+  
+@1
+ \f[8]Shifty Guy
+ "This crap freaks me out."
+ 
+@1
+ \f[8]Shifty Guy
+ "Hey, you. I was wondering about something."
+ 
+@1
+ \f[8]Shifty Guy
+ "Do you have a name? Or is that too much to ask?"
+ 
+@1
+ \f[8]Shifty Guy
+ "Come on, you can tell me."
+ 
+@1
+ \f[8]Shifty Guy
+ "Hey, I'm asking you a question.
+  Why don't you say something?"
+  
+@1
+ \f[8]Shifty Guy
+ "Do your ears work?
+  Hello? Can you hear me?"
+  
+@15
+ \f[8]Enri
+ *sigh*
+ 
+@1
+ \f[8]Shifty Guy
+ "Oh. So now you want to give me some attitude?
+  Then that's how it is, huh?"
+  
+@1
+ \f[8]Shifty Guy
+ "Didn't think you'd be such a stuck-up broad."
+ 
+@1
+ \f[8]Shifty Guy
+ "But I'll bet I'm not the first one to tell you that, huh?"
+ 
+@1
+ \f[8]Shifty Guy
+ "Man, I pity you."
+ 
+@1
+ \f[8]Shifty Guy
+ "It's a shame that someone pretty on the outside has to be ugly
+  on the inside. And who would want to be around a person like
+  that?"
+  
+@1
+ \f[8]Shifty Guy
+ "Do you get it?
+  I'm calling you ugly because that's who you are!"
+  
+@1
+ \f[8]Shifty Guy
+ "Still with the attitude, huh?
+  Heh... You're quite something alright."
+  
+@1
+ \f[8]Shifty Guy
+ "You're ugly, through and through!
+  I feel sorry for you. Hahahahah!"
+  
+@1
+ \f[8]Shifty Guy
+ "You're not saying anything back because you know I'm right,
+  huh?"
+  
+@1
+ \f[8]Shifty Guy
+ "Seriously? Come on!
+  Nothing? No response at all?"
+  
+@1
+ \f[8]Shifty Guy
+ "You really are ugly -- better yet, a repulsive whore!
+  Wow, I can't stop pitying you! Hahahah!"
+  
+@1
+ \f[8]Shifty Guy
+ "In the end, girls like you will grow up to be...
+ 
+@1
+ \f[8]Shifty Guy
+ "...the type of woman who would shake her hips for disgusting
+  men, just like the filthy whore you are!"
+  
+@1
+ \f[8]Shifty Guy
+ "Honestly, dregs of society like you would be better off dead."
+ 
+@1
+ \f[8]Shifty Guy
+ "You know I'm only saying this for your benefit, right?"
+ 
+@1
+ \f[8]Shifty Guy
+ "You see, I'm different than you;
+  I have a big heart and I'm kind."
+  
+@1
+ \f[8]Shifty Guy
+ "I'm nowhere near being repulsive like y--"
+ 
+@1
+ \f[8]Shifty Guy
+ "...Huh?"
+ 
+@1
+ \f[8]Shifty Guy
+ "E-EEEK!!"
+ 
+@1
+ \f[8]Shifty Guy
+ "M-MONSTER!
+  STAY AWAY FROM ME!!"
+  
+@1
+ \f[8]It looks like the hatch covering has been shut tight...
+ 
+@1
+ \f[8]You must go through the underground tunnel to move forward.
+ 
+-------------------
+
+@11
+ \f[8]Enri
+ "...?"
+ 
+@1
+ \f[8]There is something approaching from this direction.
+ 
+@1
+ \f[8]It'd be best to hurry.
+
+---Underground Tunnel - 3---
+
+@1
+ \f[8]You need to retreat for now.
+ 
+---Underground Tunnel - 4---
+
+@1
+ \f[8]The \c[12]demonic ax\c[10] suddenly vanishes!
+ 
+@1
+ \f[8]Until the \c[12]demonic ax\c[10] restores itself,
+ you are unable to change into your demon form.
+ 
+-------------------
+
+@1
+ \f[8]You shouldn't get too close to the fleshy mass engulfed by the
+ flames.
+ 
+---Underground Tunnel - 5---
+
+@1
+ \f[8]You don't stand a chance if you happen to encounter any more
+ of those spider-like hellbeasts without being able to change into
+ your demon form.
+ 
+@1
+ \f[8]You must proceed with caution.
+ 
